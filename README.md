@@ -1,4 +1,4 @@
-# Practica
+<img width="1015" height="339" alt="image" src="https://github.com/user-attachments/assets/d953abfa-4245-4185-8cb3-82906bd5ba07" /># Practica
 # Paso 1: Crea el repositorio en GitHub
 Entra a tu cuenta de GitHub y haz clic en el botón + (arriba a la derecha) y luego en New repository.
 
@@ -9,11 +9,15 @@ Asegúrate de que el repositorio sea Public (Público).
 Marca la casilla Add a README file.
 
 Haz clic en Create repository.
+<img width="1015" height="339" alt="image" src="https://github.com/user-attachments/assets/e7583872-605b-4426-8b33-1a0d7fed7564" />
+
+
 
 # Paso 2: Sube el código de tu sitio web
 
 Dentro de tu nuevo repositorio, asegúrate de tener un archivo llamado index.html.Para subirlo desde la web de GitHub
 Haz clic en Add file $\rightarrow$ Upload files.Arrastra tu archivo index.html. Haz clic en Commit changes para guardar.
+
 
 # Paso 3: Activa GitHub Pages
 Dentro del repositorio, ve a la pestaña Settings (Configuración) en el menú superior.
