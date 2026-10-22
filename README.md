@@ -34,7 +34,8 @@ En Branch, selecciona la rama main (o master) y carpeta /root.
 
 Haz clic en Save.
 <img width="1600" height="775" alt="image" src="https://github.com/user-attachments/assets/4e4b6267-1e95-4a51-93a7-9fcea7e2fc25" />
-#Paso 4: Ya esta tu pagina web
+
+# Paso 4: Ya esta tu pagina web
 <img width="1600" height="771" alt="image" src="https://github.com/user-attachments/assets/aaea4d96-6e31-4782-839e-607c70807931" />
 
 
