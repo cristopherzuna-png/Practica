@@ -11,6 +11,7 @@ Marca la casilla Add a README file.
 Haz clic en Create repository.
 
 Paso 2: Sube el código de tu sitio web
+
 Dentro de tu nuevo repositorio, asegúrate de tener un archivo llamado index.html.Para subirlo desde la web de GitHub
 Haz clic en Add file $\rightarrow$ Upload files.Arrastra tu archivo index.html. Haz clic en Commit changes para guardar.
 
